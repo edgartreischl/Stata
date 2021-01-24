@@ -2,7 +2,7 @@
 ***********************************************07 May 2017***
 *Regression diagnostics: Linear regression ******************
 *This is an diagnostic do file example => Please let me know 
-*(treischl@uni-mannheim.de) if you find any mistakes
+*(edgar.treischl@fau.de) if you find any mistakes
 *************************************************************
 *************************************************************
 
